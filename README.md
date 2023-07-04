@@ -31,7 +31,7 @@ To use the code samples in this repository, follow the steps below:
 1. Clone this repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com//mpesa-stk-push.git
+   git clone https://github.com/ivonnenabangala/mpesa-stk-push.git
 
 
 ## Contributing
