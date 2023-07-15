@@ -14,6 +14,27 @@
     <!--bootstrap-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <!--bootstrap-->
+<<<<<<< HEAD
+=======
+    
+</head>
+<body>
+  <div class="my-5 form">
+    <div class="card">
+        <div class="container">
+          <form class="p-5" action="request.php" method="POST">
+            <label class="form-label" for="fname">First name:</label><br>
+            <input class="form-control" type="text" id="fname" name="fname" required><br>
+            <label class="form-label" for="lname">Last name:</label><br>
+            <input class="form-control" type="text" id="lname" name="lname" required><br>
+            <label class="form-label" for="phoneNo">Mpesa number:</label><br>
+            <input class="form-control" type="number" id="phoneNo" name="phoneNo" required><br><br>
+            <input class="form-submit btn btn-primary" type="submit" value="Make payment">
+          </form> 
+        </div>
+      </div>
+  </div>
+>>>>>>> 8966e30 (initialized mpesa variables)
 
 </head>
 
